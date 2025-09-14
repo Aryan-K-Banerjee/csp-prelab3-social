@@ -1,0 +1,1 @@
+//auth routes to login, logout, and get user data
