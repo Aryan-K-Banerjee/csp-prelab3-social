@@ -1,0 +1,1 @@
+This project is to create a social media app with a team, Jira is used for management.
